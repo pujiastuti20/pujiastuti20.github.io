@@ -16,7 +16,7 @@ Jurusan : Sistem Informasi<br>
 Fakultas : Sains dan Teknologi<br>
 Universitas : UIN Suska Riau<br>
 Alamat : Garuda Sakti<br>
-Hobby : Membaca
+Hobby : Membaca<br>
 No. Hp : 085376650494<br>
 [uin suska](http://uin-suska.ac.id)<br>
 [Sistem Informasi](http://sif.uin-suska.ac.id)<br>
