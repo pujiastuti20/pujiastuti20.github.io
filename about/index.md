@@ -19,4 +19,4 @@ Alamat : Garuda Sakti<br>
 Hobby : Membaca
 No. Hp : 085376650494<br>
 
-<img src="/assets/downlonnn.jpg">
+<img src="/assets/12694937_767035940095574_6077030475990022852_o.jpg">
