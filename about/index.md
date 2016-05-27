@@ -18,8 +18,8 @@ Universitas : UIN Suska Riau<br>
 Alamat : Garuda Sakti<br>
 Hobby : Membaca
 No. Hp : 085376650494<br>
-[uin suska](http://uin-suska.ac.id)
-[Sistem Informasi](http://sif.uin-suska.ac.id)
+[uin suska](http://uin-suska.ac.id)<br>
+[Sistem Informasi](http://sif.uin-suska.ac.id)<br>
 
 
 
